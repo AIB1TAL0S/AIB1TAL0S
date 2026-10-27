@@ -1,1 +1,45 @@
-IyBIaSwgSSdtIEN1YXNzYW50IPCfkYsgPGltZyBzcmM9Imh0dHBzOi8vbWVkaWEuZ2lwaHkuY29tL21lZGlhL2h2UkpDTEZ6Y2FzclI0aWE3ei9naXBoeS5naWYiIHdpZHRoPSIzNSIvPgoKIyMg8J+agCBBYm91dCBNZToKCkknbSBhIHNvZnR3YXJlIGVuZ2luZWVyIHNwZWNpYWxpemluZyBpbiAqKmFnZW50aWMtZHJpdmVuIGRldmVsb3BtZW50Kiog4oCUIGJ1aWxkaW5nIEFJLXBvd2VyZWQgd29ya2Zsb3dzIHdoZXJlIGF1dG9ub21vdXMgYWdlbnRzIHBsYW4sIGNvZGUsIGFuZCBzaGlwIGFsb25nc2lkZSBodW1hbnMuCgotIPCflK0gQnVpbGRpbmcgYWdlbnRpYyBhdXRvbWF0aW9uIChDbGF1ZGUtcG93ZXJlZCBvcHMgYWdlbnRzLCBsb2NhbCBSQUcgYXNzaXN0YW50cykKLSDwn4yxIERlZXAgaW50byBMTE0gYWdlbnQgb3JjaGVzdHJhdGlvbiwgdG9vbC11c2UsIGFuZCBsb2NhbCBpbmZlcmVuY2UKLSDwn5KsIEFzayBtZSBhYm91dCBTdmVsdGVLaXQsIFB5dGhvbiBhZ2VudHMsIG9yIHNoaXBwaW5nIGZhc3Qgd2l0aCBBSSBwYWlyLXdvcmtmbG93cwoKIyMg8J+UlyBTb2NpYWxzOgoKPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL0FJQjFUQUwwUyI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUdpdEh1Yi0xODE3MTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iR2l0SHViIi8+PC9hPgoKIyMg8J+SuyBUZWNoIFN0YWNrOgoKIyMjIEZyb250ZW5kCgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tU3ZlbHRlLUZGM0UwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289c3ZlbHRlJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJTdmVsdGUiLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUphdmFTY3JpcHQtRjdERjFFP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1qYXZhc2NyaXB0JmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJKYXZhU2NyaXB0Ii8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1UeXBlU2NyaXB0LTMxNzhDNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dHlwZXNjcmlwdCZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iVHlwZVNjcmlwdCIvPiA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tUmVhY3QtNjFEQUZCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1yZWFjdCZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iUmVhY3QiLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVJlYWN0JTIwTmF0aXZlLTYxREFGQj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cmVhY3QmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IlJlYWN0JTIwTmF0aXZlIi8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1OZXh0LmpzLTAwMDAwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bmV4dGRvdGpzJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJOZXh0LmpzIi8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1UYWlsd2luZC0wNkI2RDQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXRhaWx3aW5kY3NzJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJUYWlsd2luZCIvPgoKIyMjIEJhY2tlbmQgJiBEYXRhCgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tUHl0aG9uLTM3NzZBQj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cHl0aG9uJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJQeXRob24iLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVBvc3RncmVTUUwtNDE2OUUxP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1wb3N0Z3Jlc3FsJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJQb3N0Z3JlU1FMIi8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1TdXBhYmFzZS0zRkNGOEU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXN1cGFiYXNlJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJTdXBhYmFzZSIvPiA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tU1FMaXRlLTAwM0I1Nz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289c3FsaXRlJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJTUUxpdGUiLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLU5vZGUuanMtMzM5OTMzP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1ub2RlZG90anMmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9Ik5vZGUuanMiLz4KCiMjIyBBSSAmIEFnZW50aWMKCjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1DVURBLTc2QjkwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bnZpZGlhJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJDVURBIi8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1PbGxhbWEtMDAwMDAwP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1vbGxhbWEmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9Ik9sbGFtYSIvPiA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tbjhuLUVBNEI3MT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bjhuJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJuOG4iLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUxhbmdDaGFpbi0xQzNDM0M/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWxhbmdjaGFpbiZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iTGFuZ0NoYWluIi8+CgojIyMgVG9vbHMKCjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1HaXQtRjA1MDMyP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naXQmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkdpdCIvPiA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tR2l0SHViLTE4MTcxNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJHaXRIdWIiLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVBvc3RtYW4tRkY2QzM3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1wb3N0bWFuJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJQb3N0bWFuIi8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1WUyUyMENvZGUtMDA3QUNDP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz12aXN1YWxzdHVkaW9jb2RlJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJWUyUyMENvZGUiLz4KCiMjIPCfk4ogR2l0SHViIFN0YXRzOgoKPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2FudXJhZ2hhenJhL2dpdGh1Yi1yZWFkbWUtc3RhdHMiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9QUlCMVRBTDBTJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT10b2t5b25pZ2h0JmhpZGVfYm9yZGVyPXRydWUmdGl0bGVfY29sb3I9N0MzQUVEJmljb25fY29sb3I9N0MzQUVEIiBhbHQ9IkdpdEh1YiBTdGF0cyIvPgo8L2E+Cgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vZGVudmVyY29kZXIxL2dpdGh1Yi1yZWFkbWUtc3RyZWFrLXN0YXRzIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9zdHJlYWstc3RhdHMuZGVtb2xhYi5jb20/dXNlcj1BSUIxVEFMMFMmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlIiBhbHQ9IlN0cmVhayBTdGF0cyIvPgo8L2E+CgohW10oaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9QUlCMVRBTDBTJmxheW91dD1jb21wYWN0JnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSZ0aXRsZV9jb2xvcj03QzNBRUQpCgohW1Byb2ZpbGUgdmlld3NdKGh0dHBzOi8va29tYXJldi5jb20vZ2hwdmMvP3VzZXJuYW1lPUFJQjFUQUwwUyZjb2xvcj1ibHVldmlvbGV0JnN0eWxlPWZvci10aGUtYmFkZ2UpCg==
+# Hi, I'm Cuassant 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+
+## 🚀 About Me:
+
+I'm a software engineer specializing in **agentic-driven development** — building AI-powered workflows where autonomous agents plan, code, and ship alongside humans.
+
+- 🔭 Building agentic automation (Claude-powered ops agents, local RAG assistants)
+- 🌱 Deep into LLM agent orchestration, tool-use, and local inference
+- 💬 Ask me about SvelteKit, Python agents, or shipping fast with AI pair-workflows
+
+## 🔗 Socials:
+
+<a href="https://github.com/AIB1TAL0S"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+## 💻 Tech Stack:
+
+### Frontend
+
+<img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+
+### Backend & Data
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+
+### AI & Agentic
+
+<img src="https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black" alt="CUDA"/> <img src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/> <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+## 📊 GitHub Stats:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AIB1TAL0S&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=AIB1TAL0S&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIB1TAL0S&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" alt="Top Languages"/>
+
+![Profile views](https://komarev.com/ghpvc/?username=AIB1TAL0S&color=blueviolet&style=for-the-badge)
