@@ -1,4 +1,4 @@
-# Hi, I'm Tux 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+# Hi, I'm Cuassant 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
 ## 🚀 About Me:
 
@@ -10,7 +10,7 @@ I'm a software engineer specializing in **agentic-driven development** — build
 
 ## 🔗 Socials:
 
-<a href="https://github.com/AIB1TAL0S"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/AIB1TAL0S"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://mastodon.social/@AEX_256"><img src="https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
 
 ## 💻 Tech Stack:
 
